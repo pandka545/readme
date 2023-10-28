@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Panda2137
 - 👀 I’m interested in coding, gamedev
-- 🌱 I’m currently learning coding, unity
+- 🌱 I’m currently learning coding, godot
 
 <!---
 Panda2137/Panda2137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
